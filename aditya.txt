@@ -1,0 +1,100 @@
+superuser                 systemuser                              regularuser
+superuser mean            the user that created                   the user mean local user  
+root user it has           by the system we have working on         that created by use to work 
+all the permission          it .                                      on that system
+
+Q2 difference between primary and secondary group
+
+
+
+
+
+
+
+Q3ans
+file /etc/passwd it used for
+user related information            etc/shadow it used to show passwd related information of about user
+
+user
+encrypted password            username                              
+uid                           encrytd passwd 
+gid                           last encryted passwd
+comment                       mini day
+directory                     maximum days
+loginshell                    warning days
+                              inactive days
+                              expire days
+                              future days
+
+Q5 
+su                                su -
+
+su mean user can                   su - mean its show
+only switch                         time and date that user has been
+                                     login in it.cloud
+Q6
+
+bashrc                               bash.profilefiles
+1. bashrc a profile                   the profile that we have
+that creates by us .                   working on it.
+
+
+
+
+iam
+
+what is cloud computing
+the delivery  of different service through the internet which 
+includes tools and application like data storage,server,database,networking
+and software.
+types of 
+1.iaas-infranstructre as a service
+2.paas-platfrom as a service
+3.saas-software as a service
+
+1.iaas: mean it can take only infrastructure 
+mean network,service,virtuialization
+eg classroom
+  it mean a classroom infrastructure
+2.paas-
+       it mean it can take network to all things that can needed 
+       network,service,os model,middle wave,runtime,data to make
+        that application.
+eg . the stadium beach give to play.
+3.saas-
+        it can all sewrvice to complete 
+their application  
+eg. the complete application of service.
+
+
+
+
+types of cloud
+1.public cloud -
+                it can use by all public people
+                to use that service.
+eg .aws azure,google
+2.private cloud -
+                     it can used for that organization
+3.hybrid cloud :
+                it mean one company  has many subcompanies to give 
+                 acess to your that user.
+                     2. it combination of public and private cloud.
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
